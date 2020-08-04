@@ -1,13 +1,13 @@
 DefaultContentLanguage = "es"
-author = "Steve Francia"
+author = "EloFran"
 baseURL = "https://github.com/EloFran"
-copyright = "Copyright © 2008–2019, Steve Francia and the Hugo Authors; all rights reserved."
+copyright = "Copyright © 2020 - Murcia - España"
 enableInlineShortcodes = true
 footnoteReturnLinkContents = "^"
 languageCode = "es"
 paginate = 3
 theme = "Estudia con Elo"
-title = "Hugo Themes"
+title = "Esto es un título"
 [[menu.main]]
 identifier = "about"
 name = "About"
