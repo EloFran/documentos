@@ -1,12 +1,12 @@
-DefaultContentLanguage = "en"
+DefaultContentLanguage = "es"
 author = "Steve Francia"
 baseURL = "https://gohugo.io/"
 copyright = "Copyright © 2008–2019, Steve Francia and the Hugo Authors; all rights reserved."
 enableInlineShortcodes = true
 footnoteReturnLinkContents = "^"
-languageCode = "en"
+languageCode = "es"
 paginate = 3
-theme = "casper3"
+theme = "Estudia con Elo"
 title = "Hugo Themes"
 [[menu.main]]
 identifier = "about"
