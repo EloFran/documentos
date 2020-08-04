@@ -1,6 +1,6 @@
 DefaultContentLanguage = "es"
 author = "EloFran"
-baseURL = "https://github.com/EloFran"
+baseURL = "https://estudiaconelo.netlify.app/"
 copyright = "Copyright © 2020 - Murcia - España"
 enableInlineShortcodes = true
 footnoteReturnLinkContents = "^"
